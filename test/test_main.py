@@ -4,7 +4,7 @@ from src.main import (
     Smartphone,
     LawnGrass,
     Category,
-)  # Импортируйте классы из main.py
+
 
 
 class TestProduct(unittest.TestCase):
